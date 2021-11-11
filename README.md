@@ -28,7 +28,7 @@
 
 - 查看端口情况
 
-  ![image-20211110171225764](/home/houxl/.config/Typora/typora-user-images/image-20211110171225764.png)
+  ![image-20211110171225764](./image-20211110171225764.png)
 
 - 设置环境变量
 
